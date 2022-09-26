@@ -145,37 +145,37 @@ export const categories = [
 ]
 
 export const footer_about = [
-    { name: 'about us', to: '#' },
-    { name: 'contact us', to: '#' },
-    { name: 'careers', to: '#' },
-    { name: 'press', to: '#' },
-    { name: 'blog', to: '#' }
+    { name: 'about us', to: '/' },
+    { name: 'contact us', to: '/' },
+    { name: 'careers', to: '/' },
+    { name: 'press', to: '/' },
+    { name: 'blog', to: '/' }
 ]
 
 export const footer_business = [
-    { name: 'advertise with us', to: '#' },
-    { name: 'write with us', to: '#' },
-    { name: 'sell with us', to: '#' }
+    { name: 'advertise with us', to: '/' },
+    { name: 'write with us', to: '/' },
+    { name: 'sell with us', to: '/' }
 ]
 
 export const footer_tools = [
-    { name: 'asset management', to: '#' },
-    { name: 'compare software', to: '#' },
-    { name: 'tech bandhu', to: '#' }
+    { name: 'asset management', to: '/' },
+    { name: 'compare software', to: '/' },
+    { name: 'tech bandhu', to: '/' }
 ]
 
 export const footer_popular_categories = [
-    { name: 'Stock Market ', to: '#' },
-    { name: 'SoftwareRetail', to: '#' },
-    { name: 'Billing Software', to: '#' },
-    { name: 'Astrology Software', to: '#' },
-    { name: 'Plagiarism Checker', to: '#' },
-    { name: 'Pharmacy Software ', to: '#' },
-    { name: 'HR Software', to: '#' },
-    { name: 'Accounting Software', to: '#' },
-    { name: 'Payment Gateway', to: '#' },
-    { name: 'Data Recovery Software', to: '#' },
-    { name: 'Video Editing Software', to: '#' }
+    { name: 'Stock Market ', to: '/' },
+    { name: 'SoftwareRetail', to: '/' },
+    { name: 'Billing Software', to: '/' },
+    { name: 'Astrology Software', to: '/' },
+    { name: 'Plagiarism Checker', to: '/' },
+    { name: 'Pharmacy Software ', to: '/' },
+    { name: 'HR Software', to: '/' },
+    { name: 'Accounting Software', to: '/' },
+    { name: 'Payment Gateway', to: '/' },
+    { name: 'Data Recovery Software', to: '/' },
+    { name: 'Video Editing Software', to: '/' }
 ]
 
 export const faq_top = [
@@ -215,31 +215,31 @@ export const faq_bottom = [
 export const newsCompanies = [
     {
         thumbnail: 'https://cdn.techjockey.com/web/assets/images/techjockey/media/news_logo/1562335896_bizztor.png',
-        to: '#'
+        to: '/'
     },
     {
         thumbnail: 'https://cdn.techjockey.com/web/assets/images/techjockey/media/news_logo/1562335767_business_insider.png',
-        to: '#'
+        to: '/'
     },
     {
         thumbnail: 'https://cdn.techjockey.com/web/assets/images/techjockey/media/news_logo/1562335880_entrackr.png',
-        to: '#'
+        to: '/'
     },
     {
         thumbnail: 'https://cdn.techjockey.com/web/assets/images/techjockey/media/news_logo/1562336607_enterpreneur.png',
-        to: '#'
+        to: '/'
     },
     {
         thumbnail: 'https://cdn.techjockey.com/web/assets/images/techjockey/media/news_logo/1562335836_enterpreneur.png',
-        to: '#'
+        to: '/'
     },
     {
         thumbnail: 'https://cdn.techjockey.com/web/assets/images/techjockey/media/news_logo/1562335731_ettech.png',
-        to: '#'
+        to: '/'
     },
     {
         thumbnail: 'https://cdn.techjockey.com/web/assets/images/techjockey/media/news_logo/1562337172_express_computer.png',
-        to: '#'
+        to: '/'
     }
 ]
 
@@ -276,14 +276,14 @@ export const banner = {
         heading: 'We\'d love to hear your feedback!Review your software',
         content: 'Tell us about experience, pros and cons of your using product.',
         buttonContent: 'write a review',
-        buttonLink: '#'
+        buttonLink: '/'
     },
     '1': {
         thumbnail: 'https://www.techjockey.com/assets/V2/img/hp_reseller_img.png',
         heading: 'Grow your business faster by selling your software',
         content: 'Sell your products to crores of customers on techjockey.com',
         buttonContent: 'start selling',
-        buttonLink: '#'
+        buttonLink: '/'
     }
 }
 
@@ -319,25 +319,25 @@ export const software_categories = {
     'data backup software': {
         icon: sub_icon,
         tree: {
-            'endpoint backup solution': { icon: sub_icon, tree: null, to: '' },
-            'email backup software': { icon: sub_icon, tree: null, to: '' },
-            'saas backup solution': { icon: sub_icon, tree: null, to: '' },
-            'mobile data backup software': { icon: sub_icon, tree: null, to: '' },
-            'data recovery software': { icon: sub_icon, tree: null, to: '' },
-            'disaster recovery system': { icon: sub_icon, tree: null, to: '' }
+            'endpoint backup solution': { icon: sub_icon, tree: null, to: '/' },
+            'email backup software': { icon: sub_icon, tree: null, to: '/' },
+            'saas backup solution': { icon: sub_icon, tree: null, to: '/' },
+            'mobile data backup software': { icon: sub_icon, tree: null, to: '/' },
+            'data recovery software': { icon: sub_icon, tree: null, to: '/' },
+            'disaster recovery system': { icon: sub_icon, tree: null, to: '/' }
         }
     },
     'accounting software': {
         icon: sub_icon,
         tree: {
-            'gst software': { icon: sub_icon, tree: null, to: '' },
-            'expense management software': { icon: sub_icon, tree: null, to: '' },
-            'income tax software': { icon: sub_icon, tree: null, to: '' },
-            'debt collction software': { icon: sub_icon, tree: null, to: '' },
-            'quoting software': { icon: sub_icon, tree: null, to: '' },
-            'pricing system': { icon: sub_icon, tree: null, to: '' }
+            'gst software': { icon: sub_icon, tree: null, to: '/' },
+            'expense management software': { icon: sub_icon, tree: null, to: '/' },
+            'income tax software': { icon: sub_icon, tree: null, to: '/' },
+            'debt collction software': { icon: sub_icon, tree: null, to: '/' },
+            'quoting software': { icon: sub_icon, tree: null, to: '/' },
+            'pricing system': { icon: sub_icon, tree: null, to: '/' }
         },
-        to: ''
+        to: '/'
     },
     'hr software': {
         tree: null,
@@ -378,19 +378,19 @@ export const software_categories = {
 }
 
 export const hardware_categories = {
-    'barcode scanners': { icon: sub_icon, tree: null, to: '' },
-    'pos machine': { icon: sub_icon, tree: null, to: '' },
-    'biometric device': { icon: sub_icon, tree: null, to: '' },
-    'server': { icon: sub_icon, tree: null, to: '' },
+    'barcode scanners': { icon: sub_icon, tree: null, to: '/' },
+    'pos machine': { icon: sub_icon, tree: null, to: '/' },
+    'biometric device': { icon: sub_icon, tree: null, to: '/' },
+    'server': { icon: sub_icon, tree: null, to: '/' },
     'stograge devices': {
-        icon: sub_icon, tree: { 'cloud storage': '', }, to: '',
+        icon: sub_icon, tree: { 'cloud storage': '', }, to: '/',
     },
-    'laptops & pcs': { icon: sub_icon, tree: null, to: '' },
-    'printers': { icon: sub_icon, tree: null, to: '' },
-    'lan switching tool': { icon: sub_icon, tree: null, to: '' },
-    'network devices': { icon: sub_icon, tree: null, to: '' },
-    'micro atm devices': { icon: sub_icon, tree: null, to: '' },
-    'speakerphones': { icon: sub_icon, tree: null, to: '' },
+    'laptops & pcs': { icon: sub_icon, tree: null, to: '/' },
+    'printers': { icon: sub_icon, tree: null, to: '/' },
+    'lan switching tool': { icon: sub_icon, tree: null, to: '/' },
+    'network devices': { icon: sub_icon, tree: null, to: '/' },
+    'micro atm devices': { icon: sub_icon, tree: null, to: '/' },
+    'speakerphones': { icon: sub_icon, tree: null, to: '/' },
 }
 
 const industry_thumbnail = 'https://cdn.techjockey.com/web/assets/images/techjockey/industry/4_agriculture.jpg'
@@ -429,25 +429,25 @@ export const department_categories = {
 }
 export const header_categories = [
     {
-        'software categories': { tree: software_categories, to: '#' }
+        'software categories': { tree: software_categories, to: '/' }
     },
     {
-        'hardwdare categories': { tree: hardware_categories, to: '#' }
+        'hardwdare categories': { tree: hardware_categories, to: '/' }
     },
     {
-        'by industry': { tree: industry_categories, to: '#' }
+        'by industry': { tree: industry_categories, to: '/' }
     },
     {
-        'by departments': { tree: department_categories, to: '#' }
+        'by departments': { tree: department_categories, to: '/' }
     },
     {
-        'WFH tools': { tree: null, to: '#' }
+        'WFH tools': { tree: null, to: '/' }
     },
     {
-        'list your products': { tree: null, to: '#' }
+        'list your products': { tree: null, to: '/' }
     },
     {
-        'compare product': { tree: null, to: '#' }
+        'compare product': { tree: null, to: '/' }
     }
 ]
 
