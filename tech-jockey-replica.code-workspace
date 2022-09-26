@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontSize": 18,
+		"workbench.colorTheme": "Visual Studio Dark",
+		"editor.fontFamily": "Source Code Pro",
+		"editor.tabSize": 2,
+		"terminal.integrated.fontSize": 18,
+		"terminal.integrated.fontFamily": "Source Code Pro",
+		"editor.formatOnSave": true
+	}
+}
