@@ -33,6 +33,7 @@
 }
 
 body {
+  width: 100vw;
   font-size: 16px;
 }
 
@@ -369,6 +370,8 @@ button:hover {
   padding: 1em 0;
   display: grid;
   grid-template-columns: repeat(4, auto);
+  column-gap: 1em;
+  overflow-x: auto;
 }
 
 .name {
@@ -583,6 +586,7 @@ button:hover {
   display: grid;
   grid-template-columns: repeat(4, auto);
   column-gap: 1em;
+  overflow-x: auto;
 }
 
 .customer-success-card {
@@ -643,6 +647,7 @@ button:hover {
 .news-thumbnails-container {
   display: grid;
   grid-template-columns: repeat(7, auto);
+  overflow-x: auto;
 }
 
 .news-thumbnail-container {

@@ -39,13 +39,15 @@ export const products = [
     }
 ]
 
+const wfhImage = 'https://cdn.techjockey.com/web/assets/images/techjockey/products/15463_voyager-5200-uc-logo.jpg'
+
 export const workFromAnywhereEssentials = [
     {
-        name: 'Deskera all in one',
+        name: 'Plantronics Voyager 5200 UC',
         company: 'deskera',
         rating: 4.3,
         price: 24999,
-        thumbnail: dummyImage,
+        thumbnail: wfhImage,
         tags: []
     },
     {
@@ -53,7 +55,7 @@ export const workFromAnywhereEssentials = [
         company: 'deskera',
         rating: 4.3,
         price: 24999,
-        thumbnail: dummyImage,
+        thumbnail: wfhImage,
         tags: []
     },
     {
@@ -61,7 +63,7 @@ export const workFromAnywhereEssentials = [
         company: 'deskera',
         rating: 4.3,
         price: 24999,
-        thumbnail: dummyImage,
+        thumbnail: wfhImage,
         tags: []
     },
     {
@@ -69,7 +71,7 @@ export const workFromAnywhereEssentials = [
         company: 'deskera',
         rating: 4.3,
         price: 24999,
-        thumbnail: dummyImage,
+        thumbnail: wfhImage,
         tags: []
     }
 ]
