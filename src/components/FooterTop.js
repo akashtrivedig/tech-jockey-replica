@@ -1,5 +1,5 @@
 import React from 'react'
-import { categories, footer_about, footer_business, footer_popular_categories, footer_tools } from '../staticContent'
+import { footer_about, footer_business, footer_popular_categories, footer_tools } from '../staticContent'
 
 const FooterTop = () => {
     return (

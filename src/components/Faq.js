@@ -1,4 +1,4 @@
-import React, { forwardRef } from 'react'
+import React from 'react'
 import { faq_bottom, faq_top } from '../staticContent'
 
 const Faq = () => {
@@ -7,7 +7,7 @@ const Faq = () => {
             <div className="faq-top">
                 <div className="faq-top-heading-container">
                     <h2 className='faq-heading'>There is something for everyone!</h2>
-                    <a href='#' className='link'>see more</a>
+                    <a href='/' className='link'>see more</a>
                 </div>
                 <div className="faq-top-list-conatiner">
                     {

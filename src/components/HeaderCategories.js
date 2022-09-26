@@ -22,7 +22,7 @@ const HeaderCategories = () => {
 export default HeaderCategories
 
 const Option = (props) => {
-  const { name, to } = props
+  const { name } = props
   return (
     <div className="option">{name}</div>
   )
@@ -50,7 +50,7 @@ const DynamicOption = (props) => {
 
 
 const OptionsBox = (props) => {
-  const { options, index } = props
+  const { options } = props
   const keys = Object.keys(options)
   return (
     <div className="option-box">

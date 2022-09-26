@@ -16,7 +16,7 @@ const Hero = () => {
         </div>
         <div className="hero-input-optional">
           or <span className='optional-link'>
-            <a href='#'>get instant advice</a>
+            <a href='/'>get instant advice</a>
           </span>
         </div>
         <div className="hero-options-container">
